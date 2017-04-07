@@ -1,0 +1,19 @@
+{
+    "name": "behires/php_country_codes",
+    "description": "A helper for php with the countries of the world.",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Frank Giger",
+            "email": "frank.giger@behires.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Behires\\": "src"
+        }
+    }
+}
